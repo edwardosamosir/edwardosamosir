@@ -1,4 +1,4 @@
-# Hi there, I'm Edwardo 👋
+# Hola, I'm Edo 👋
 
 I'm a software engineer.
 
@@ -11,14 +11,19 @@ I'm a software engineer.
 # Tech Stacks ⚡
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java-lang)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
+![.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
@@ -30,23 +35,43 @@ I'm a software engineer.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Citus](https://img.shields.io/badge/-Citus-black?style=flat-square&logo=postgresql)
+![Citus](https://img.shields.io/badge/-CitusData-black?style=flat-square&logo=citusdata)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![GORM](https://img.shields.io/badge/-GORM-black?style=flat-square)
+![EF Core](https://img.shields.io/badge/-EF_Core-black?style=flat-square&logo=microsoft)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka)
-![NATS](https://img.shields.io/badge/-NATS-black?style=flat-square&logo=nats)
-![Debezium](https://img.shields.io/badge/-Debezium-black?style=flat-square&logo=debezium)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![NATS](https://img.shields.io/badge/-NATS-black?style=flat-square&logo=nats.io)
+![Debezium](https://img.shields.io/badge/-Debezium-black?style=flat-square&logo=debezium.io)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=rest)
+![REST](https://img.shields.io/badge/-{REST:API}-black?style=flat-square)
+![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
+![NBomber](https://img.shields.io/badge/-NBomber-black?style=flat-square&logo=nbomber)
+![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
+![Zerolog](https://img.shields.io/badge/-Zerolog-black?style=flat-square&logo=zerolog)
+![Winston](https://img.shields.io/badge/-Winston-black?style=flat-square&logo=winston)
+![Serilog](https://img.shields.io/badge/-Serilog-black?style=flat-square&logo=serilog)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-web-services)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Railway](https://img.shields.io/badge/-Railway-black?style=flat-square&logo=railway)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![Fly.io](https://img.shields.io/badge/-Fly.io-black?style=flat-square&logo=flydotio)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
 
 ---
 
