@@ -23,6 +23,8 @@ I'm a software engineer.
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
