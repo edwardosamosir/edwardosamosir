@@ -31,7 +31,7 @@ I'm a software engineer.
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Citus](https://img.shields.io/badge/-Citus-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
