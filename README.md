@@ -1,6 +1,6 @@
 # Hola, I'm Edo 👋
 
-I'm a software engineer.
+I'm a software engineer based in 🇮🇩Indonesia. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edwardosamosir-informational?style=flat-square&logo=linkedin)][LinkedIn]
 [![Twitter](https://img.shields.io/badge/X-EdwardoSamosir-informational?style=flat-square&logo=x)][Twitter]
