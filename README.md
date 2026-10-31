@@ -48,6 +48,7 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![Fastify](https://img.shields.io/badge/-Fastify-black?style=flat-square&logo=fastify)
 ![HapiJS](https://img.shields.io/badge/-Hapi.js-black?style=flat-square&logo=hapi)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat-square&logo=rubyonrails)
+![Grape](https://img.shields.io/badge/-Grape-black?style=flat-square&logo=ruby)
 ![.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
@@ -61,6 +62,7 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier)
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
@@ -100,15 +102,37 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![Pion](https://img.shields.io/badge/-Pion-black?style=flat-square&logo=go)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-black?style=flat-square&logo=oauth)
+![Passport.js](https://img.shields.io/badge/-Passport.js-black?style=flat-square&logo=passport)
+![Devise](https://img.shields.io/badge/-Devise-black?style=flat-square&logo=rubyonrails)
+![CanCanCan](https://img.shields.io/badge/-CanCanCan-black?style=flat-square&logo=ruby)
+![Auth0](https://img.shields.io/badge/-Auth0-black?style=flat-square&logo=auth0)
+![Kong](https://img.shields.io/badge/-Kong-black?style=flat-square&logo=kong)
+![MCP](https://img.shields.io/badge/-MCP-black?style=flat-square)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI%2FSwagger-black?style=flat-square&logo=swagger)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-black?style=flat-square)
 ![Circuit Breaker](https://img.shields.io/badge/-Circuit%20Breaker-black?style=flat-square)
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
+**Architecture & Patterns**
+
+![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/-Modular%20Monolith-black?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-black?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/-Event--Driven-black?style=flat-square)
+![Redis Distributed Locks](https://img.shields.io/badge/-Redis%20Distributed%20Locks-black?style=flat-square&logo=redis)
+![Background Workers](https://img.shields.io/badge/-Background%20Workers-black?style=flat-square)
+![Scheduled Jobs](https://img.shields.io/badge/-Scheduled%20Jobs-black?style=flat-square)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-black?style=flat-square)
+![Micro-frontends](https://img.shields.io/badge/-Micro--frontends-black?style=flat-square)
+![Module Federation](https://img.shields.io/badge/-Module%20Federation-black?style=flat-square&logo=webpack)
+![PWA](https://img.shields.io/badge/-PWA%20%2F%20Service%20Workers-black?style=flat-square&logo=pwa)
+![SharedWorker](https://img.shields.io/badge/-SharedWorker-black?style=flat-square)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Citus](https://img.shields.io/badge/-CitusData-black?style=flat-square&logo=citusdata)
+![PostGIS](https://img.shields.io/badge/-PostGIS-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
@@ -119,6 +143,7 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 **ORMs & Query Builders**
 
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-black?style=flat-square&logo=drizzle)
+![Drizzle Kit](https://img.shields.io/badge/-Drizzle%20Kit-black?style=flat-square&logo=drizzle)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
@@ -146,6 +171,8 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![gocraft/work](https://img.shields.io/badge/-gocraft%2Fwork-black?style=flat-square&logo=go)
 ![Debezium](https://img.shields.io/badge/-Debezium-black?style=flat-square&logo=debezium.io)
 ![Sidekiq](https://img.shields.io/badge/-Sidekiq-black?style=flat-square&logo=sidekiq)
+![Karafka](https://img.shields.io/badge/-Karafka-black?style=flat-square&logo=apache-kafka)
+![Ably](https://img.shields.io/badge/-Ably-black?style=flat-square&logo=ably)
 
 **Testing & Performance**
 
@@ -162,6 +189,10 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
 ![NBomber](https://img.shields.io/badge/-NBomber-black?style=flat-square&logo=nbomber)
 ![JMeter](https://img.shields.io/badge/-JMeter-black?style=flat-square&logo=apachejmeter)
+![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube)
+![Mockery](https://img.shields.io/badge/-Mockery-black?style=flat-square&logo=go)
+![RuboCop](https://img.shields.io/badge/-RuboCop-black?style=flat-square&logo=rubocop)
+![golangci-lint](https://img.shields.io/badge/-golangci--lint-black?style=flat-square&logo=go)
 
 **Monitoring, Observability & Analytics**
 
@@ -177,6 +208,8 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana)
 ![Metabase](https://img.shields.io/badge/-Metabase-black?style=flat-square&logo=metabase)
 ![Mixpanel](https://img.shields.io/badge/-Mixpanel-black?style=flat-square&logo=mixpanel)
+![Hotjar](https://img.shields.io/badge/-Hotjar-black?style=flat-square&logo=hotjar)
+![Datadog RUM](https://img.shields.io/badge/-Datadog%20RUM-black?style=flat-square&logo=datadog)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat-square&logo=google-analytics)
 ![Logtail](https://img.shields.io/badge/-Logtail-black?style=flat-square&logo=logtail)
 ![Zerolog](https://img.shields.io/badge/-Zerolog-black?style=flat-square&logo=zerolog)
@@ -191,6 +224,8 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket)
+![Bitbucket Pipelines](https://img.shields.io/badge/-Bitbucket%20Pipelines-black?style=flat-square&logo=bitbucket)
+![HashiCorp Vault](https://img.shields.io/badge/-HashiCorp%20Vault-black?style=flat-square&logo=vault)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat-square&logo=microsoftazure)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-square&logo=argo)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
@@ -200,9 +235,15 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 ![Helm](https://img.shields.io/badge/-Helm-black?style=flat-square&logo=helm)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-web-services)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-black?style=flat-square&logo=amazons3)
+![AWS ECR](https://img.shields.io/badge/-AWS%20ECR-black?style=flat-square&logo=amazonecs)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat-square&logo=amazonec2)
+![AWS SSM](https://img.shields.io/badge/-AWS%20SSM-black?style=flat-square&logo=awssystemsmanager)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
+![Infisical](https://img.shields.io/badge/-Infisical-black?style=flat-square&logo=infisical)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-black?style=flat-square&logo=alibabacloud)
+![Alibaba Cloud OSS](https://img.shields.io/badge/-Alibaba%20Cloud%20OSS-black?style=flat-square&logo=alibabacloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![Lens](https://img.shields.io/badge/-Lens-black?style=flat-square&logo=lens)
@@ -215,18 +256,36 @@ I'm a **Software Engineer** based in 🇮🇩 Indonesia with 3+ years of experie
 **Integrations**
 
 ![SendGrid](https://img.shields.io/badge/-SendGrid-black?style=flat-square&logo=sendgrid)
+![Resend](https://img.shields.io/badge/-Resend-black?style=flat-square&logo=resend)
+![Mailgun](https://img.shields.io/badge/-Mailgun-black?style=flat-square&logo=mailgun)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![MoEngage](https://img.shields.io/badge/-MoEngage-black?style=flat-square)
+![Web Push](https://img.shields.io/badge/-Web%20Push-black?style=flat-square)
 ![FCM](https://img.shields.io/badge/-FCM-black?style=flat-square&logo=firebase)
 ![OneSignal](https://img.shields.io/badge/-OneSignal-black?style=flat-square&logo=onesignal)
 ![Twilio](https://img.shields.io/badge/-Twilio-black?style=flat-square&logo=twilio)
 ![Xendit](https://img.shields.io/badge/-Xendit-black?style=flat-square&logo=xendit)
 ![Midtrans](https://img.shields.io/badge/-Midtrans-black?style=flat-square)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
+![Stripe Connect](https://img.shields.io/badge/-Stripe%20Connect-black?style=flat-square&logo=stripe)
 ![Google APIs](https://img.shields.io/badge/-Google%20APIs-black?style=flat-square&logo=google)
+![Google Places](https://img.shields.io/badge/-Google%20Places-black?style=flat-square&logo=googlemaps)
+![Google Maps](https://img.shields.io/badge/-Google%20Maps-black?style=flat-square&logo=googlemaps)
+![iCalendar](https://img.shields.io/badge/-iCalendar%20(ICS)-black?style=flat-square&logo=icalendar)
 ![Meta API](https://img.shields.io/badge/-Meta%20API-black?style=flat-square&logo=meta)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-black?style=flat-square&logo=whatsapp)
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-black?style=flat-square&logo=meta)
 ![Accurate](https://img.shields.io/badge/-Accurate-black?style=flat-square)
 ![Jurnal](https://img.shields.io/badge/-Jurnal-black?style=flat-square)
 ![Google Chat](https://img.shields.io/badge/-Google%20Chat-black?style=flat-square&logo=google-chat)
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
+
+**AI Tooling**
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-black?style=flat-square&logo=anthropic)
+![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=cursor)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=githubcopilot)
 
 ---
 [LinkedIn]: https://linkedin.com/in/edwardosamosir/
